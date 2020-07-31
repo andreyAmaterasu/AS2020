@@ -2,7 +2,8 @@
 # AtomSkills 2020. IT Solution for business
 
 **Участник:** Костромин Андрей Александрович
+В каталоге Dron Taxi Desktop находится инструкция и desktop приложение.  
+В каталоге Dron Taxi Web находится инструкция и web приложение.  
+scriptDronTaxi.sql - скрипт для базы данных.  
 ```
-  В каталоге Dron Taxi Desktop находится инструкция и desktop приложение.  
-  В каталоге Dron Taxi Web находится инструкция и web приложение.  
-  scriptDronTaxi.sql - скрипт для базы данных.  
+    
